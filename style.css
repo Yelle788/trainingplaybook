@@ -44,7 +44,7 @@ header.active{
 header.active .logo{
     color: #fff;
 }
-header.active  .navbar, a{
+header.active  .navbar a{
     color: #fff;
 }
 .logo{
