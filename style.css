@@ -368,6 +368,8 @@ form .btn:hover{
 }
 @media(max-width: 991px){
     header{
+        display: flex;
+        justify-content: space-between;
         padding: 11px 4%;
     }
     #menu-icon{
