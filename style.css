@@ -181,7 +181,7 @@ header.active  .navbar a{
     text-align: center;
 }
 .heading h2{
-    font-size: 2rem;
+    font-size: 4rem;
     color: var(--second-color);
     margin-bottom: 0.5rem;
 }
